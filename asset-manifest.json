@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/advice-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/advice-app/static/js/main.f03fd6e8.chunk.js",
+    "main.js.map": "/advice-app/static/js/main.f03fd6e8.chunk.js.map",
+    "runtime-main.js": "/advice-app/static/js/runtime-main.4a36d874.js",
+    "runtime-main.js.map": "/advice-app/static/js/runtime-main.4a36d874.js.map",
+    "static/js/2.314519ae.chunk.js": "/advice-app/static/js/2.314519ae.chunk.js",
+    "static/js/2.314519ae.chunk.js.map": "/advice-app/static/js/2.314519ae.chunk.js.map",
+    "index.html": "/advice-app/index.html",
+    "precache-manifest.1838a535f07086a418f852bedafa866c.js": "/advice-app/precache-manifest.1838a535f07086a418f852bedafa866c.js",
+    "service-worker.js": "/advice-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/advice-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.314519ae.chunk.js.LICENSE.txt": "/advice-app/static/js/2.314519ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/advice-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a36d874.js",
+    "static/js/2.314519ae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f03fd6e8.chunk.js"
+  ]
+}
