@@ -8,10 +8,14 @@ Advice app using React showcasing React Fetch API.<br />
 
 [Click Here For Preview](https://superneutrino8.github.io/advice-app/)
 
-## Tools used
+## Tech Stack
 
-- React
-- Axios
+- [React](https://github.com/facebook/react)
+- [Axios](https://github.com/axios/axios)
+
+## Credits
+
+[Advice Slip](https://api.adviceslip.com/) :sparkles:
 
 ## License
 
