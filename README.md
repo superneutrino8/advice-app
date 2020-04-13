@@ -1,6 +1,6 @@
 # Advice - React App
 
-![Advice App Home Page](https://raw.githubusercontent.com/superneutrino8/advice-app/master/src/images/bg.jpg)
+![Advice App Home Page](https://raw.githubusercontent.com/superneutrino8/advice-app/master/src/images/homepage-snippet.png)
 
 ## Introduction
 
